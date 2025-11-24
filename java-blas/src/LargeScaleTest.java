@@ -1,6 +1,3 @@
-import blas.BLASLevel1;
-import blas.BLASLevel2;
-import blas.BLASLevel3;
 import java.util.Random;
 
 public class LargeScaleTest {

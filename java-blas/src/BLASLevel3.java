@@ -1,4 +1,3 @@
-package blas;
 
 /**
  * BLAS Level 3 routines (Matrix-Matrix operations).

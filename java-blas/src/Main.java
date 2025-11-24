@@ -1,4 +1,3 @@
-package blas;
 
 import java.util.Arrays;
 

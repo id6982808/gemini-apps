@@ -1,4 +1,3 @@
-package blas;
 
 /**
  * BLAS Level 1 routines (Vector-Vector operations).
